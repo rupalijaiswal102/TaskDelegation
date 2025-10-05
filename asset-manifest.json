@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/rupalijaiswal102/TaskDelegation.git/static/css/main.e83c3fe1.css",
-    "main.js": "/rupalijaiswal102/TaskDelegation.git/static/js/main.72a8699f.js",
-    "index.html": "/rupalijaiswal102/TaskDelegation.git/index.html",
-    "main.e83c3fe1.css.map": "/rupalijaiswal102/TaskDelegation.git/static/css/main.e83c3fe1.css.map",
-    "main.72a8699f.js.map": "/rupalijaiswal102/TaskDelegation.git/static/js/main.72a8699f.js.map"
+    "main.css": "/TaskDelegation/static/css/main.e83c3fe1.css",
+    "main.js": "/TaskDelegation/static/js/main.72a8699f.js",
+    "index.html": "/TaskDelegation/index.html",
+    "main.e83c3fe1.css.map": "/TaskDelegation/static/css/main.e83c3fe1.css.map",
+    "main.72a8699f.js.map": "/TaskDelegation/static/js/main.72a8699f.js.map"
   },
   "entrypoints": [
     "static/css/main.e83c3fe1.css",
