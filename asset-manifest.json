@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/rupalijaiswal102/TaskDelegation.git/static/css/main.e83c3fe1.css",
+    "main.js": "/rupalijaiswal102/TaskDelegation.git/static/js/main.72a8699f.js",
+    "index.html": "/rupalijaiswal102/TaskDelegation.git/index.html",
+    "main.e83c3fe1.css.map": "/rupalijaiswal102/TaskDelegation.git/static/css/main.e83c3fe1.css.map",
+    "main.72a8699f.js.map": "/rupalijaiswal102/TaskDelegation.git/static/js/main.72a8699f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e83c3fe1.css",
+    "static/js/main.72a8699f.js"
+  ]
+}
