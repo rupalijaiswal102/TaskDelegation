@@ -6,6 +6,9 @@ import Navbar from "./components/Navbar";
 import Footer from "./components/Footer";
 import { mockTasks } from "./data/mockTasks";
 import { Toaster } from "./components/ui/toaster";
+import 'bootstrap/dist/css/bootstrap.min.css';
+
+
 
 const App1 = () => {
   const [tasks, setTasks] = useState([]);
